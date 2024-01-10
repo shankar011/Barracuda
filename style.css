@@ -1,0 +1,44 @@
+
+.nav{
+    background-color: #1a3257;
+}
+
+.nav select{
+    margin-left: 90%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+   
+}
+.center{
+  
+    background-color: #405f8d;
+    color: white;
+    height: 100vh;
+}
+.center img{
+    margin-top: 10%;
+    margin-left: 17rem;
+}
+.para{
+    background-color: white;
+    color: black;
+    width: 25rem;
+    border-radius: 10px;
+    margin-left: 27rem;
+    margin-top: 1rem;
+}
+.para p{
+    padding: 0.5rem;
+}
+.para input{
+    padding: 0.5rem;
+    margin-left: 2rem;
+    width: 20rem;
+    border-radius: 10px;
+   
+}
+.para button{
+    margin-left: 65%;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
